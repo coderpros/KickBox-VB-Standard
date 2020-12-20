@@ -1,6 +1,6 @@
-﻿# kickbox-vb-standard
+# kickbox-vb-standard
 
-A [KickBox.io](https://kickbox.io) API wrapper for .Net Core version 5.0 written in C#.
+A [KickBox.io](https://kickbox.io) API wrapper for .Net Standard version 4.8 written in VB.Net.
 
 ## How to use
 
