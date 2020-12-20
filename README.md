@@ -13,16 +13,16 @@
 > A [KickBox.io](https://kickbox.io) API wrapper for .Net Standard version 4.8 written in VB.Net.
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/coderpros/blog.svg?style=flat-square
-[contributors-url]: https://github.com/coderpros/blog/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/coderpros/blog?style=flat-square
-[forks-url]: https://github.com/coderpros/blog/network/members
-[stars-shield]: https://img.shields.io/github/stars/coderpros/blog.svg?style=flat-square
-[stars-url]: https://github.com/coderpros/blog/stargazers
-[issues-shield]: https://img.shields.io/github/issues/coderpros/blog?style=flat-square
-[issues-url]: https://github.com/coderpros/blog/issues
-[license-shield]: https://img.shields.io/github/license/coderpros/blog?style=flat-square
-[license-url]: https://github.com/coderpros/blog/master/blog/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/coderpros/KickBox-VB-Standard.svg?style=flat-square
+[contributors-url]: https://github.com/coderpros/KickBox-VB-Standard/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/coderpros/KickBox-VB-Standard?style=flat-square
+[forks-url]: https://github.com/coderpros/KickBox-VB-Standard/network/members
+[stars-shield]: https://img.shields.io/github/stars/coderpros/KickBox-VB-Standard.svg?style=flat-square
+[stars-url]: https://github.com/coderpros/KickBox-VB-Standard/stargazers
+[issues-shield]: https://img.shields.io/github/issues/coderpros/KickBox-VB-Standard?style=flat-square
+[issues-url]: https://github.com/coderpros/KickBox-VB-Standard/issues
+[license-shield]: https://img.shields.io/github/license/coderpros/KickBox-VB-Standard?style=flat-square
+[license-url]: https://github.com/coderpros/KickBox-VB-Standard/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/company/coderpros
 [twitter-shield]: https://img.shields.io/twitter/follow/coderpronet?style=social
