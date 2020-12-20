@@ -1,5 +1,34 @@
+<img src="https://coderpro.net/media/1024/coderpro_logo_rounded_extra-90x90.webp" align="right" />
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40coderProNet)](https://twitter.com/coderProNet)
+[![GitHub](https://img.shields.io/github/followers/coderpros?label=Follow&style=social)](https://github.com/coderpros)
+
 # KickBox-VB-Standard
-A [KickBox.io](https://kickbox.io) API wrapper for .Net Standard version 4.8 written in VB.Net.
+> A [KickBox.io](https://kickbox.io) API wrapper for .Net Standard version 4.8 written in VB.Net.
+
+
+[contributors-shield]: https://img.shields.io/github/contributors/coderpros/blog.svg?style=flat-square
+[contributors-url]: https://github.com/coderpros/blog/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/coderpros/blog?style=flat-square
+[forks-url]: https://github.com/coderpros/blog/network/members
+[stars-shield]: https://img.shields.io/github/stars/coderpros/blog.svg?style=flat-square
+[stars-url]: https://github.com/coderpros/blog/stargazers
+[issues-shield]: https://img.shields.io/github/issues/coderpros/blog?style=flat-square
+[issues-url]: https://github.com/coderpros/blog/issues
+[license-shield]: https://img.shields.io/github/license/coderpros/blog?style=flat-square
+[license-url]: https://github.com/coderpros/blog/master/blog/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/company/coderpros
+[twitter-shield]: https://img.shields.io/twitter/follow/coderpronet?style=social
+[twitter-follow-url]: https://img.shields.io/twitter/follow/coderpronet?style=social
+[github-shield]: https://img.shields.io/github/followers/coderpros?label=Follow&style=social
+[github-follow-url]: https://img.shields.io/twitter/follow/coderpronet?style=social
 
 ## How to use
 
