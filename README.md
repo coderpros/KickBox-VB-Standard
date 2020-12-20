@@ -22,7 +22,7 @@
 [issues-shield]: https://img.shields.io/github/issues/coderpros/KickBox-VB-Standard?style=flat-square
 [issues-url]: https://github.com/coderpros/KickBox-VB-Standard/issues
 [license-shield]: https://img.shields.io/github/license/coderpros/KickBox-VB-Standard?style=flat-square
-[license-url]: https://github.com/coderpros/KickBox-VB-Standard/master/LICENSE
+[license-url]: https://github.com/coderpros/KickBox-VB-Standard/blob/master/KickBox.Standard.VB/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/company/coderpros
 [twitter-shield]: https://img.shields.io/twitter/follow/coderpronet?style=social
